@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.58c8a939.js",
+    "main.js": "/static/js/main.6ca84d24.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/programmer.gif": "/static/media/programmer.bfeea7bf7ef5d1ea08b5.gif",
     "static/media/Ravilogo.png": "/static/media/Ravilogo.017b50362bfabb396c97.png",
     "index.html": "/index.html",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.58c8a939.js.map": "/static/js/main.58c8a939.js.map",
+    "main.6ca84d24.js.map": "/static/js/main.6ca84d24.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.58c8a939.js"
+    "static/js/main.6ca84d24.js"
   ]
 }
