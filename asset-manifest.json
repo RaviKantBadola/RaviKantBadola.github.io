@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.22b3faf6.css",
-    "main.js": "/static/js/main.05ac6eeb.js",
+    "main.js": "/static/js/main.fb731309.js",
     "static/media/githubapi.png": "/static/media/githubapi.6578b00c770c9262a970.png",
     "static/media/khanacademy.png": "/static/media/khanacademy.698137ba411c8c0e141a.png",
     "static/media/RaviBadola.jpg": "/static/media/RaviBadola.2be511b1802da002762d.jpg",
     "static/media/thesouledstore.png": "/static/media/thesouledstore.b414a1af6c7a80c37c10.png",
     "index.html": "/index.html",
     "main.22b3faf6.css.map": "/static/css/main.22b3faf6.css.map",
-    "main.05ac6eeb.js.map": "/static/js/main.05ac6eeb.js.map"
+    "main.fb731309.js.map": "/static/js/main.fb731309.js.map"
   },
   "entrypoints": [
     "static/css/main.22b3faf6.css",
-    "static/js/main.05ac6eeb.js"
+    "static/js/main.fb731309.js"
   ]
 }
